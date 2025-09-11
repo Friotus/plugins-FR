@@ -1,7 +1,7 @@
 import './stylesheets/main.scss'
 
 import EditorKit, { EditorKitDelegate } from '@standardnotes/editor-kit'
-import React, { useCallback, useEffect, useRef } from 'react'
+import React, { useCallback, useEffect, useLayoutEffect, useRef } from 'react'
 import ReactDOM from 'react-dom'
 import { renderToString } from 'react-dom/server'
 import { Provider } from 'react-redux'
@@ -86,7 +86,7 @@ const TaskEditor: React.FC = () => {
     })
   }, [dispatch])
 
-  useEffect(() => {
+  useLayoutEffect(() => {
     configureEditorKit()
   }, [configureEditorKit])
 
