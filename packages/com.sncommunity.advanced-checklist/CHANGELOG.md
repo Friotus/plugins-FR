@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.6](https://github.com/standardnotes/plugins/compare/@standardnotes/advanced-checklist@0.5.5...@standardnotes/advanced-checklist@0.5.6) (2025-09-11)
+
+### Bug Fixes
+
+* **advanced-checklist:** Fixes Advanced Checklist plugin not rendering on iOS and Safari ([#50](https://github.com/standardnotes/plugins/issues/50)) ([51dd22b](https://github.com/standardnotes/plugins/commit/51dd22bef56a940308a3b9b5c63f2e945ce15fbf))
+
 ## [0.5.5](https://github.com/standardnotes/plugins/compare/@standardnotes/advanced-checklist@0.5.4...@standardnotes/advanced-checklist@0.5.5) (2025-08-07)
 
 **Note:** Version bump only for package @standardnotes/advanced-checklist
