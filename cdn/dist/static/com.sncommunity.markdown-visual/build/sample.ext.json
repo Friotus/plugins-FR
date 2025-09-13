@@ -9,7 +9,7 @@
   "area": "editor-editor",
   "version": "1.0.0",
   "description": "A lightweight WYSIWYG markdown editor, derivated from Milkdown editor",
-  "url": "http://localhost:8001/",
+  "url": "http://localhost:8002/",
   "marketing_url": "",
   "flags": ["New"]
 }
