@@ -10,7 +10,7 @@
   "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.standard-blue-dark-theme.zip",
   "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.standard-blue-dark-theme.json",
   "publisher": "Passkeys",
-  "description": "A dark blue theme for Standard Notes.",
-  "base64Hash": "10e7fb7fe7de70c97c45d3113db40128293d12bb91e6c7574c20f3f58b03126a",
-  "binaryHash": "207941d351086ba0b107dbf319662562a402271fec529ca28e7f3978419fb84c"
+  "description": "A dark blue theme for Standard Notes",
+  "base64Hash": "10449f1a5dbdaa5cdf97d9e0718934676681d4358b109d052547b9088de252f7",
+  "binaryHash": "caffbc3f9f67b37f69e5a5443cca7e650e75ae160b2b93b322d6c12ab985a0be"
 }

@@ -8,12 +8,12 @@
   "file_type": "md",
   "showInGallery": true,
   "identifier": "com.sncommunity.minimal-markdown",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.minimal-markdown/index.html",
   "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.minimal-markdown.zip",
   "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.minimal-markdown.json",
-  "publisher": "Standard Notes Community",
+  "publisher": "Standard Notes Community.",
   "description": "A minimal Markdown editor with live rendering and in-text search via Ctrl/Cmd + F",
-  "base64Hash": "a13034ff3ccab3acd12cc130c7a0216449755ef2a71fec577c871a22a12fa8d5",
-  "binaryHash": "5b161a49cc2582403d392d36e337e6d12059a173def1445ceb5c42b01707207c"
+  "base64Hash": "8cfa79fa76ced159eac2e162c363908bb0a62fd254edc970a06d56ffc503e0e9",
+  "binaryHash": "98c7e124001cdc3d69e05456aeec16537e96a3e83b43d01fe2261ec83a3c6a1f"
 }
