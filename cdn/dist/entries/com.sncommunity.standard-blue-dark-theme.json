@@ -5,12 +5,12 @@
   "main": "dist/dist.css",
   "showInGallery": true,
   "identifier": "com.sncommunity.standard-blue-dark-theme",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.standard-blue-dark-theme/dist/dist.css",
   "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.standard-blue-dark-theme.zip",
   "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.standard-blue-dark-theme.json",
   "publisher": "Passkeys",
-  "description": "A dark blue theme for Standard Notes",
-  "base64Hash": "10449f1a5dbdaa5cdf97d9e0718934676681d4358b109d052547b9088de252f7",
-  "binaryHash": "caffbc3f9f67b37f69e5a5443cca7e650e75ae160b2b93b322d6c12ab985a0be"
+  "description": "A dark blue theme for Standard Notes.",
+  "base64Hash": "2d8ef9caae75a179f25086bc9ee29a908d8f8fb127c34b696f9ab38480897325",
+  "binaryHash": "0b3c7f19185482c170cd043ffe7185a89a3c37621c8544900ca30e2a2760a614"
 }
