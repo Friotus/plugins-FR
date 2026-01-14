@@ -47,14 +47,14 @@
     "file_type": "json",
     "showInGallery": true,
     "identifier": "com.sncommunity.advanced-checklist",
-    "version": "0.5.16",
+    "version": "0.5.17",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.advanced-checklist/build/index.html",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.advanced-checklist.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.advanced-checklist.json",
     "publisher": "Standard Notes Community",
     "description": "A task editor with grouping functionality.",
-    "base64Hash": "c60b4e8bd55e1841cf54d68c02f6fa3272b8ee49d64eb668c082c0108ea26a4d",
-    "binaryHash": "c9a3ff2bc3964ff2482ee295ba8a1e1bbd163191f1f19aa97b76ccd640c281e7"
+    "base64Hash": "f3ee80c74877d00dd6cccfaf8f3187cc1fbd025c80d23d312cc78129b167d52c",
+    "binaryHash": "4590c71e1201c3a7b891aa7f82ca8e5d4c60df40a641e6a6f6620ae0360c3bb4"
   },
   "com.sncommunity.markdown-basic": {
     "name": "Basic Markdown",
