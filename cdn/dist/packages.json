@@ -32,10 +32,10 @@
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.bold-editor/dist/index.html",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.bold-editor.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.bold-editor.json",
-    "publisher": "Standard Notes Retired.",
+    "publisher": "Standard Notes Retired",
     "description": "A simple and peaceful rich editor that helps you write and think clearly.",
-    "base64Hash": "01ff5ec78ad022841d8489f1011a7cb38e816cb3ae369d09796f96385ce1c6c4",
-    "binaryHash": "78fba6f02f71cfebc96b3c57d9a9c1488510659eee4029aff84c3b1aa60da0eb"
+    "base64Hash": "bc11f050bbf12edf5e82d20f287e0d45cd0975aa0d7b030d20731579e9da60fa",
+    "binaryHash": "aca3a60e8d7922eadecb379434740ec5026d3e15c0c1598212c492443b510a64"
   },
   "com.sncommunity.advanced-checklist": {
     "name": "Advanced Checklist",
@@ -47,14 +47,14 @@
     "file_type": "json",
     "showInGallery": true,
     "identifier": "com.sncommunity.advanced-checklist",
-    "version": "0.5.12",
+    "version": "0.5.13",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.advanced-checklist/build/index.html",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.advanced-checklist.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.advanced-checklist.json",
     "publisher": "Standard Notes Community",
     "description": "A task editor with grouping functionality.",
-    "base64Hash": "83753b87488024658ab7ef11ac32cad26e79d51306c5d143e04b19a8e6da8857",
-    "binaryHash": "06e31d253171b08f987e316301b1cda8344ed685ba741525ca83e215beeba35a"
+    "base64Hash": "0886c2dadae435ef8a8c0e2ceef49590dc06f91b25a672e5a049587d600ba5eb",
+    "binaryHash": "52d86f6a49594682a59c619171480d59862a9fb06bea7bfba47f399fb73fc373"
   },
   "com.sncommunity.markdown-basic": {
     "name": "Basic Markdown",
@@ -123,10 +123,10 @@
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.markdown-visual/build/index.html",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.markdown-visual.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.markdown-visual.json",
-    "publisher": "Standard Notes Community.",
+    "publisher": "Standard Notes Community",
     "description": "A WYSIWYG-style Markdown editor that renders Markdown in preview-mode while you type without displaying any syntax.",
-    "base64Hash": "755ccfacba0aa98425e0117126f243d5edced75a96fc122a9084a8724f7736a0",
-    "binaryHash": "7ab6800a789a1d28c91736b62b699eba075ae9c427469a252ced3965b52056d2"
+    "base64Hash": "9c2600a191de02fc64583052a0231d26acf864eba0612fc87c764c152b2ab633",
+    "binaryHash": "9f4280dbb558482dfc52d4cc724bbeb8ef56a7bac8ec0c57cb698e95dcf97597"
   },
   "org.standardnotes.legacy.file-safe": {
     "name": "FileSafe Legacy",
