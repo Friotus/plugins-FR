@@ -28,14 +28,14 @@
     "file_type": "html",
     "showInGallery": false,
     "identifier": "com.sncommunity.bold-editor",
-    "version": "1.7.3",
+    "version": "1.7.4",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.bold-editor/dist/index.html",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.bold-editor.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.bold-editor.json",
     "publisher": "Standard Notes Retired",
     "description": "A simple and peaceful rich editor that helps you write and think clearly.",
-    "base64Hash": "bc11f050bbf12edf5e82d20f287e0d45cd0975aa0d7b030d20731579e9da60fa",
-    "binaryHash": "aca3a60e8d7922eadecb379434740ec5026d3e15c0c1598212c492443b510a64"
+    "base64Hash": "4261d5b90eef6af92a13b24e460aabeac3270e42e76c9c9620f4fc35e2789e0e",
+    "binaryHash": "91c858be536a98df6077f799e43aa594825c388bfcb8e26c65c7310c447245c8"
   },
   "com.sncommunity.advanced-checklist": {
     "name": "Advanced Checklist",
@@ -47,14 +47,14 @@
     "file_type": "json",
     "showInGallery": true,
     "identifier": "com.sncommunity.advanced-checklist",
-    "version": "0.5.13",
+    "version": "0.5.14",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.advanced-checklist/build/index.html",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.advanced-checklist.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.advanced-checklist.json",
-    "publisher": "Standard Notes Community",
+    "publisher": "Standard Notes Community.",
     "description": "A task editor with grouping functionality.",
-    "base64Hash": "0886c2dadae435ef8a8c0e2ceef49590dc06f91b25a672e5a049587d600ba5eb",
-    "binaryHash": "52d86f6a49594682a59c619171480d59862a9fb06bea7bfba47f399fb73fc373"
+    "base64Hash": "92822d5898108fc85564e0656d85d80730e5d8fda749c5bd87fe8898010a4a38",
+    "binaryHash": "75163d50df2f62e878f4c65cbb5dac855c48366c77dcad26884fe91b31ac8cdf"
   },
   "com.sncommunity.markdown-basic": {
     "name": "Basic Markdown",
@@ -119,14 +119,14 @@
     "file_type": "md",
     "showInGallery": true,
     "identifier": "com.sncommunity.markdown-visual",
-    "version": "1.4.7",
+    "version": "1.4.8",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.markdown-visual/build/index.html",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.markdown-visual.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.markdown-visual.json",
     "publisher": "Standard Notes Community",
     "description": "A WYSIWYG-style Markdown editor that renders Markdown in preview-mode while you type without displaying any syntax.",
-    "base64Hash": "9c2600a191de02fc64583052a0231d26acf864eba0612fc87c764c152b2ab633",
-    "binaryHash": "9f4280dbb558482dfc52d4cc724bbeb8ef56a7bac8ec0c57cb698e95dcf97597"
+    "base64Hash": "7b7e2fb4d441030349336aaa2fc690f2eab60d71814beab00c427663c0c46956",
+    "binaryHash": "69d7c6271e8fbc162dd54cb948d8b5884a37cb370cefe4067bf79426c49d01c0"
   },
   "org.standardnotes.legacy.file-safe": {
     "name": "FileSafe Legacy",
