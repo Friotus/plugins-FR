@@ -99,7 +99,7 @@
     "@reach/visually-hidden": "0.16.0",
     "@react-hook/resize-observer": "^1.2.5",
     "@reduxjs/toolkit": "1.8.0",
-    "@standardnotes/editor-kit": "standardnotes/editor-kit#bea3ae474bef6e5ddbf78e9235cea49a4225da55",
+    "@standardnotes/editor-kit": "standardnotes/editor-kit#2ced01412a6e26024e2809b953ff5d4d4605b2ec",
     "@standardnotes/stylekit": "5.23.0",
     "@testing-library/dom": "8.11.3",
     "@testing-library/jest-dom": "5.16.2",

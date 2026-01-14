@@ -29,7 +29,7 @@
     "@babel/eslint-parser": "^7.13.14",
     "@babel/preset-env": "^7.13.12",
     "@babel/preset-react": "^7.13.13",
-    "@standardnotes/editor-kit": "standardnotes/editor-kit#bea3ae474bef6e5ddbf78e9235cea49a4225da55",
+    "@standardnotes/editor-kit": "standardnotes/editor-kit#2ced01412a6e26024e2809b953ff5d4d4605b2ec",
     "babel-loader": "^8.2.2",
     "copy-webpack-plugin": "*",
     "css-loader": "^5.2.0",
