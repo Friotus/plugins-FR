@@ -6,7 +6,7 @@
   },
   "description": "Syntax highlighting and convenient keyboard shortcuts for over 120 programming languages. Ideal for code snippets and procedures.",
   "main": "dist/main.js",
-  "author": "Standard Notes Community.",
+  "author": "Standard Notes Community",
   "license": "AGPL-3.0",
   "scripts": {
     "start": "http-server . --cors -p8001 & webpack --progress --config webpack.dev.js",
@@ -27,7 +27,7 @@
     "showInGallery": true
   },
   "dependencies": {
-    "@standardnotes/component-relay": "standardnotes/component-relay#c54e74bd6d5a22fda4568325a0a699fa55dd14b4"
+    "@standardnotes/component-relay": "standardnotes/component-relay#893561d2dc72cd3c66f071b3a509b8b7dcd721de"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",

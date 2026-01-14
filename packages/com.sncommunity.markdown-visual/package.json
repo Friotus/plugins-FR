@@ -34,7 +34,7 @@
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "dependencies": {
-    "@standardnotes/editor-kit": "standardnotes/editor-kit#2ced01412a6e26024e2809b953ff5d4d4605b2ec",
+    "@standardnotes/editor-kit": "standardnotes/editor-kit#80f3080594c46a84e6a1689984fbc985ddd44a8f",
     "@standardnotes/styles": "1.6.1"
   },
   "devDependencies": {
