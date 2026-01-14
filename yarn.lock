@@ -6645,7 +6645,7 @@ __metadata:
     "@reach/visually-hidden": 0.16.0
     "@react-hook/resize-observer": ^1.2.5
     "@reduxjs/toolkit": 1.8.0
-    "@standardnotes/editor-kit": "standardnotes/editor-kit#2ced01412a6e26024e2809b953ff5d4d4605b2ec"
+    "@standardnotes/editor-kit": "standardnotes/editor-kit#80f3080594c46a84e6a1689984fbc985ddd44a8f"
     "@standardnotes/stylekit": 5.23.0
     "@standardnotes/utils": 1.9.0
     "@testing-library/dom": 8.11.3
@@ -6820,6 +6820,19 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"@standardnotes/component-relay@standardnotes/component-relay#893561d2dc72cd3c66f071b3a509b8b7dcd721de":
+  version: 2.3.1
+  resolution: "@standardnotes/component-relay@https://github.com/standardnotes/component-relay.git#commit=893561d2dc72cd3c66f071b3a509b8b7dcd721de"
+  dependencies:
+    "@standardnotes/common": ^1.43.0
+    "@standardnotes/features": 1.54.0
+    "@standardnotes/models": 1.34.3
+    "@standardnotes/sncrypto-common": 1.13.0
+    "@standardnotes/snjs": 2.147.2
+  checksum: f51fa8eb4be8897bb736ace2512e443ca13d0737bbd609cddc2bb0d58b729b63c788558132816cfc064190e67c89297bccd210bbee94ef3f4ec92db8cdd42ac8
+  languageName: node
+  linkType: hard
+
 "@standardnotes/component-relay@standardnotes/component-relay#c54e74bd6d5a22fda4568325a0a699fa55dd14b4":
   version: 2.3.0
   resolution: "@standardnotes/component-relay@https://github.com/standardnotes/component-relay.git#commit=c54e74bd6d5a22fda4568325a0a699fa55dd14b4"
@@ -6860,6 +6873,17 @@ __metadata:
     "@standardnotes/models": 1.34.3
     "@standardnotes/snjs": 2.147.2
   checksum: eb5eb3069b71630489670be9031db10423c3e696836a3cdf2dc32fa96a930bbda5c4d8278d2dc6eb1b81f9d96820b9a7b243cfde3ec5f96aca6c023ee22961bd
+  languageName: node
+  linkType: hard
+
+"@standardnotes/editor-kit@standardnotes/editor-kit#80f3080594c46a84e6a1689984fbc985ddd44a8f":
+  version: 2.3.3
+  resolution: "@standardnotes/editor-kit@https://github.com/standardnotes/editor-kit.git#commit=80f3080594c46a84e6a1689984fbc985ddd44a8f"
+  dependencies:
+    "@standardnotes/component-relay": "standardnotes/component-relay#893561d2dc72cd3c66f071b3a509b8b7dcd721de"
+    "@standardnotes/models": 1.34.3
+    "@standardnotes/snjs": 2.147.2
+  checksum: 6fea312f76da2f581cddb78cd057ef5ba98b1f962504e53ec3abaf41c52df5e1b6316fe69bff9b1b73f9b7efd439386c1670db84b56c6259fc36e08aca29a352
   languageName: node
   linkType: hard
 
