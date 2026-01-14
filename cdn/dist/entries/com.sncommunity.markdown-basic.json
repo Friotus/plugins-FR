@@ -8,12 +8,12 @@
   "file_type": "md",
   "showInGallery": true,
   "identifier": "com.sncommunity.markdown-basic",
-  "version": "1.7.5",
+  "version": "1.7.6",
   "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.markdown-basic/dist/index.html",
   "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.markdown-basic.zip",
   "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.markdown-basic.json",
   "publisher": "Standard Notes Community",
   "description": "A Markdown editor with dynamic split-pane preview.",
-  "base64Hash": "7f4f0269e57daf27594db2cd3549753982ea2776dc8986443c1ef18dfe859257",
-  "binaryHash": "80cf0cd91d84f3e225c055d268d2e885175021918b462fd38a26d2bd9607304e"
+  "base64Hash": "6f23ea6b4f9176350f96c904ff778ecf385e14fc453a37aa551e3860463a2614",
+  "binaryHash": "e1a1930fe391365498af5656b0e179f6a90420e417f6bddf25e59529caad6c7d"
 }
