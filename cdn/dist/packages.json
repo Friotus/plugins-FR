@@ -9,14 +9,14 @@
     "file_type": "md",
     "showInGallery": true,
     "identifier": "com.sncommunity.minimal-markdown",
-    "version": "1.4.6",
+    "version": "1.4.7",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.minimal-markdown/index.html",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.minimal-markdown.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.minimal-markdown.json",
     "publisher": "Standard Notes Community",
     "description": "A minimal Markdown editor with live rendering and in-text search via Ctrl/Cmd + F",
-    "base64Hash": "39dc1a06ed008c9f9a1f80e64c9f84e08cbdda2f857ec9388f31133f6818dd74",
-    "binaryHash": "8a141bf82102b3b928f8ed9cbc68a1010cb50b0f4be4c61497ecf66fc45f1dfb"
+    "base64Hash": "d76242871656adf316fd2d6217f59f48bda698c764e82519b148d625af6b4f50",
+    "binaryHash": "cf296254ab9d17080b0bdfb61e537640f67273a4bd6761d1cae1f82a9b2a8e6d"
   },
   "com.sncommunity.bold-editor": {
     "name": "Bold Editor",
@@ -28,14 +28,14 @@
     "file_type": "html",
     "showInGallery": false,
     "identifier": "com.sncommunity.bold-editor",
-    "version": "1.7.5",
+    "version": "1.7.6",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.bold-editor/dist/index.html",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.bold-editor.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.bold-editor.json",
     "publisher": "Standard Notes Retired",
     "description": "A simple and peaceful rich editor that helps you write and think clearly.",
-    "base64Hash": "aff0763b5d6b1d9f8149e9a506d5eb84b2ad40aed3179b701d82ec6074fe6ef1",
-    "binaryHash": "fcfa97a37e9ac91d47f66ce89ada66bb04d944a64d93a4306982cd96baf42004"
+    "base64Hash": "d84a098b1520d27b7b2416f860ee4feb0ef80f070c8c300d25f0cd0005d1df90",
+    "binaryHash": "ceac255a9b9b4be2844e7000a1358ba655e6ed33bcc5f122091f740bfddea148"
   },
   "com.sncommunity.advanced-checklist": {
     "name": "Advanced Checklist",
@@ -66,14 +66,14 @@
     "file_type": "md",
     "showInGallery": true,
     "identifier": "com.sncommunity.markdown-basic",
-    "version": "1.7.6",
+    "version": "1.7.7",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.markdown-basic/dist/index.html",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.markdown-basic.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.markdown-basic.json",
     "publisher": "Standard Notes Community",
     "description": "A Markdown editor with dynamic split-pane preview.",
-    "base64Hash": "1df26f4596c0fec099346517231f16d4a1a15e7e90981266060d1c982cc34496",
-    "binaryHash": "b79a98a19968a224ad5b09f7814bb319f1b564f5cbba8a454276b1a248b91c4f"
+    "base64Hash": "a6992c7eb0962c9406a42e73bf94abe6d8fc2afee9861eb4626f99591d9ac869",
+    "binaryHash": "de8cdd46669a4c8d19ae23cfe04b89a61670222689749fe3ef48ce9cec08f4f2"
   },
   "com.sncommunity.markdown-math": {
     "name": "Markdown Math",
@@ -85,14 +85,14 @@
     "file_type": "txt",
     "showInGallery": true,
     "identifier": "com.sncommunity.markdown-math",
-    "version": "1.5.6",
+    "version": "1.5.7",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.markdown-math/index.html",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.markdown-math.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.markdown-math.json",
     "publisher": "Standard Notes Community",
     "description": "A beautiful split-pane Markdown editor with synced-scroll, LaTeX support, and colorful syntax.",
-    "base64Hash": "6fc8427cd0c20da19d9a13e273d5b0d2fed7cc20fca6c5f28dc5f76d6294b926",
-    "binaryHash": "365a0ec7b0a3fdcaa42e6cec675d5fc38a16e0728feeb8949578d04dac769938"
+    "base64Hash": "566b4c2ce631e4c3937d25de088833211497187faef949ba6550e5321781069d",
+    "binaryHash": "6bb57e415e64b7365cfeecaff02de514c84729d8f45c87c6d4f3e8ed0baaa12c"
   },
   "com.sncommunity.dracula-theme": {
     "name": "Dracula",
@@ -119,14 +119,14 @@
     "file_type": "md",
     "showInGallery": true,
     "identifier": "com.sncommunity.markdown-visual",
-    "version": "1.4.9",
+    "version": "1.4.10",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.markdown-visual/build/index.html",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.markdown-visual.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.markdown-visual.json",
     "publisher": "Standard Notes Community",
     "description": "A WYSIWYG-style Markdown editor that renders Markdown in preview-mode while you type without displaying any syntax.",
-    "base64Hash": "6163fdf33cc67f889c2e70174d91284b2676d54c22ac859a2995ce1585e175fc",
-    "binaryHash": "4aa102591ef864a5f10875a9126c947a9e56d3a2fef78a8fc34f8d9370d8e783"
+    "base64Hash": "8a3e1d070680c98ee7eb158279a646d9a35f0d7ce8427f08d10a628e24a53e0b",
+    "binaryHash": "2c23b469ec34cfeeeea8ea216c9e8569bf4bc317d70e416a791aa91734a4f9c5"
   },
   "org.standardnotes.legacy.file-safe": {
     "name": "FileSafe Legacy",
@@ -153,14 +153,14 @@
     "file_type": "md",
     "showInGallery": true,
     "identifier": "org.standardnotes.advanced-markdown-editor",
-    "version": "1.8.5",
+    "version": "1.8.6",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/org.standardnotes.advanced-markdown-editor/dist/index.html",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/org.standardnotes.advanced-markdown-editor.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/org.standardnotes.advanced-markdown-editor.json",
     "publisher": "Standard Notes Community",
     "description": "A fully featured Markdown editor that supports live preview, a styling toolbar, and split pane support.",
-    "base64Hash": "9dab8cb5430407268d6df631223248080ec07889c7340f2ca426ea83d5121728",
-    "binaryHash": "639be3ce0ed4b2ca91f83a7d3129de33f0105c26cafd5b9a4c494cebba1993bd"
+    "base64Hash": "0290ceedf33e9901d6e5a5f93b5bd10fad41204d2004d36728b2d9b515a0ecae",
+    "binaryHash": "d11538c296e5e6c1d658e8b9b30bf5956b8f803b3fa3e666f68749c6fc6ca65f"
   },
   "org.standardnotes.plus-editor": {
     "name": "Rich Text",
@@ -172,14 +172,14 @@
     "file_type": "html",
     "showInGallery": true,
     "identifier": "org.standardnotes.plus-editor",
-    "version": "1.9.6",
+    "version": "1.9.7",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/org.standardnotes.plus-editor/dist/index.html",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/org.standardnotes.plus-editor.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/org.standardnotes.plus-editor.json",
     "publisher": "Standard Notes Community",
     "description": "From highlighting to custom font sizes and colors, to tables and lists, this editor is perfect for crafting any document.",
-    "base64Hash": "7afa80d662aeed9ffcf7b463ce554cdf30a4e398cd64bfb397f8f7ab6b55442f",
-    "binaryHash": "bbfa04faf0d2c93907c1a6bfe38bceee2a9dc86b8f0d79543266b8619f14339c"
+    "base64Hash": "1dacdc92a4051c0649da59ca9a79d36dafa928cbc46ba2f4683a9ad4dedaa6ae",
+    "binaryHash": "5e413f218da0b9528bcd48231515731b3403d015dfcc0049ed9ef1ccd76de8f8"
   },
   "org.standardnotes.simple-task-editor": {
     "name": "Checklist",
@@ -191,14 +191,14 @@
     "file_type": "md",
     "showInGallery": true,
     "identifier": "org.standardnotes.simple-task-editor",
-    "version": "1.6.8",
+    "version": "1.6.9",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/org.standardnotes.simple-task-editor/dist/index.html",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/org.standardnotes.simple-task-editor.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/org.standardnotes.simple-task-editor.json",
     "publisher": "Standard Notes Community",
     "description": "A great way to manage short-term and long-term to-do's. You can mark tasks as completed, change their order, and edit the text naturally in place.",
-    "base64Hash": "411461703a8137e49368db7b4e3b4a09b24a3959dc4c3eee287ad4dadd88230e",
-    "binaryHash": "d3d6aa2f6e2b771829e543bdf2532c98c04af6c262c1a6ae599135977cc3e2d3"
+    "base64Hash": "0d77be1d6533300a49de77aed7739218591c3491f8530d8cb934384d4953b710",
+    "binaryHash": "372c363358b076bdd4604a2477c0bae969bfe01716c18707747a4f46965d977f"
   },
   "org.standardnotes.code-editor": {
     "name": "Code",
@@ -210,14 +210,14 @@
     "file_type": "txt",
     "showInGallery": true,
     "identifier": "org.standardnotes.code-editor",
-    "version": "1.6.6",
+    "version": "1.6.7",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/org.standardnotes.code-editor/index.html",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/org.standardnotes.code-editor.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/org.standardnotes.code-editor.json",
     "publisher": "Standard Notes Community",
     "description": "Syntax highlighting and convenient keyboard shortcuts for over 120 programming languages. Ideal for code snippets and procedures.",
-    "base64Hash": "16ff1f67566bf7eadaaacc3c09b5bd6bdd81dda964b22339cd9109dbb29f206e",
-    "binaryHash": "e2e6134af9cf4b903fe0238b2f34d87a7a1f00ee86ed23e048f775434f0ec0b9"
+    "base64Hash": "957cbca82769c909dd9b02cef520b2c662ba1cba5cee5a702195d09536294ae8",
+    "binaryHash": "63a1a366565ffcc498951be088b77f077243cbe80f1ce536b6dbb5a5dc0e0879"
   },
   "com.sncommunity.standard-blue-dark-theme": {
     "name": "Standard Blue Dark",
