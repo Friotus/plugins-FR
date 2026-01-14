@@ -12,8 +12,8 @@
   "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.markdown-math/index.html",
   "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.markdown-math.zip",
   "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.markdown-math.json",
-  "publisher": "Standard Notes Community",
+  "publisher": "Standard Notes Community.",
   "description": "A beautiful split-pane Markdown editor with synced-scroll, LaTeX support, and colorful syntax.",
-  "base64Hash": "b2439bc0c694fd3fb28cd875388143525bb697474ab6a756ae264b3f2475cf84",
-  "binaryHash": "2a541ea55398e5ada489e1e5a47b3ab72f039a44957c5f7e996100c555f40e77"
+  "base64Hash": "95d1d41748241c670c504fbff23f15cc48e322d43addaf5eaa49f469018020a0",
+  "binaryHash": "9254e8c52bc025393e0556008bd43c961eb969229e8c00dc0abb747df6329769"
 }

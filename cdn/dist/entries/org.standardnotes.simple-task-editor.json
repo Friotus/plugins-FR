@@ -12,8 +12,8 @@
   "url": "https://standardnotes.github.io/plugins/cdn/dist/static/org.standardnotes.simple-task-editor/dist/index.html",
   "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/org.standardnotes.simple-task-editor.zip",
   "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/org.standardnotes.simple-task-editor.json",
-  "publisher": "Standard Notes Community.",
+  "publisher": "Standard Notes Community",
   "description": "A great way to manage short-term and long-term to-do's. You can mark tasks as completed, change their order, and edit the text naturally in place.",
-  "base64Hash": "fccd69c25504b55a1a6ac359b2ba149041725262f9dd469b4236e994193e07d5",
-  "binaryHash": "d93d10b8bf7ed8b21fd0932ca327594fc20985deae4654f3f9a9e679268b4d17"
+  "base64Hash": "27223bc78a5c1fc6e2977573559f5c69df1f9d05b88b62c2854e4b323678c584",
+  "binaryHash": "0b5fe0a6bc78bd816a143b8d8b812256628466481b5a23a82e160942dddcdc58"
 }

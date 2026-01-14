@@ -12,8 +12,8 @@
   "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.markdown-visual/build/index.html",
   "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.markdown-visual.zip",
   "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.markdown-visual.json",
-  "publisher": "Standard Notes Community",
+  "publisher": "Standard Notes Community.",
   "description": "A WYSIWYG-style Markdown editor that renders Markdown in preview-mode while you type without displaying any syntax.",
-  "base64Hash": "8c641aa4a3f1f7dd9f6032bc0228b0c4d2fc25dce73d6715fa983b2e3e7ba77c",
-  "binaryHash": "d51e9320ee08fcc1b607955ff45a46dd0f35a1482dca1bda5e34f4222ee3fee3"
+  "base64Hash": "3e6a9cce9c719dcfcc718fbe6bff0277ed7e30cba9e98a215755a52b0e9700db",
+  "binaryHash": "4f3b1b9f9a4cc8109c22be57860205976925d5f8654c0abdcc54b06e2a3b8fa7"
 }

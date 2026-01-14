@@ -12,8 +12,8 @@
   "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.markdown-basic/dist/index.html",
   "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.markdown-basic.zip",
   "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.markdown-basic.json",
-  "publisher": "Standard Notes Community.",
+  "publisher": "Standard Notes Community",
   "description": "A Markdown editor with dynamic split-pane preview.",
-  "base64Hash": "6bfe09651e4ee1716bf1459b6960d2116c3bf0a6eabf45696a9af2d7992aa471",
-  "binaryHash": "a074cd0c8c92780c8a9afb40a8951c3656908b5e66c27cf05b328a8cc5f75e32"
+  "base64Hash": "7f4f0269e57daf27594db2cd3549753982ea2776dc8986443c1ef18dfe859257",
+  "binaryHash": "80cf0cd91d84f3e225c055d268d2e885175021918b462fd38a26d2bd9607304e"
 }
