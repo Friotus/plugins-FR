@@ -8,12 +8,12 @@
   "file_type": "html",
   "showInGallery": false,
   "identifier": "com.sncommunity.bold-editor",
-  "version": "1.7.4",
+  "version": "1.7.5",
   "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.bold-editor/dist/index.html",
   "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.bold-editor.zip",
   "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.bold-editor.json",
   "publisher": "Standard Notes Retired",
   "description": "A simple and peaceful rich editor that helps you write and think clearly.",
-  "base64Hash": "33296d6d5d05b93bad406b9cba3bbb4bfce5b9262d6b31a1643a4a1295773be6",
-  "binaryHash": "171f98b660ea310008a24c095873328e8781991d4a6a9c01cc639748598032be"
+  "base64Hash": "3c71b8f20f50e8a773a727be68d9ab1948e2d7241497b612ddbc98fb29cb0990",
+  "binaryHash": "ce37cd9392948d6bc49e76f2b8bb0facb6dd701131984e0fbd6234078458560e"
 }

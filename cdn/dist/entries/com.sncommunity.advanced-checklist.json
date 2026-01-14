@@ -8,12 +8,12 @@
   "file_type": "json",
   "showInGallery": true,
   "identifier": "com.sncommunity.advanced-checklist",
-  "version": "0.5.15",
+  "version": "0.5.16",
   "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.advanced-checklist/build/index.html",
   "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.advanced-checklist.zip",
   "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.advanced-checklist.json",
-  "publisher": "Standard Notes Community.",
+  "publisher": "Standard Notes Community",
   "description": "A task editor with grouping functionality.",
-  "base64Hash": "a94dd6fee2e6a47409472c092b573478bfec9665b2c8dd0ae9619f29d3cdbbf1",
-  "binaryHash": "5e9022302cb480d5baf69b7ab07f02545e24e1c5f1527767c3daea13d3694780"
+  "base64Hash": "c60b4e8bd55e1841cf54d68c02f6fa3272b8ee49d64eb668c082c0108ea26a4d",
+  "binaryHash": "c9a3ff2bc3964ff2482ee295ba8a1e1bbd163191f1f19aa97b76ccd640c281e7"
 }
