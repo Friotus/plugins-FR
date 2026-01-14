@@ -26,14 +26,6 @@ jobs:
       - name: Enable Corepack (Yarn)
         run: corepack enable
 
-      - name: Verify npm auth + registry (debug E404)
-        shell: bash
-        run: |
-          node -v
-          npm -v
-          npm config get registry
-          npm whoami
-
       - name: Setup git config
         run: |
           git config --global user.name "standardci"
