@@ -34,8 +34,8 @@
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.bold-editor.json",
     "publisher": "Standard Notes Retired",
     "description": "A simple and peaceful rich editor that helps you write and think clearly.",
-    "base64Hash": "4261d5b90eef6af92a13b24e460aabeac3270e42e76c9c9620f4fc35e2789e0e",
-    "binaryHash": "91c858be536a98df6077f799e43aa594825c388bfcb8e26c65c7310c447245c8"
+    "base64Hash": "33296d6d5d05b93bad406b9cba3bbb4bfce5b9262d6b31a1643a4a1295773be6",
+    "binaryHash": "171f98b660ea310008a24c095873328e8781991d4a6a9c01cc639748598032be"
   },
   "com.sncommunity.advanced-checklist": {
     "name": "Advanced Checklist",
@@ -47,14 +47,14 @@
     "file_type": "json",
     "showInGallery": true,
     "identifier": "com.sncommunity.advanced-checklist",
-    "version": "0.5.14",
+    "version": "0.5.15",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.advanced-checklist/build/index.html",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.advanced-checklist.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.advanced-checklist.json",
     "publisher": "Standard Notes Community.",
     "description": "A task editor with grouping functionality.",
-    "base64Hash": "92822d5898108fc85564e0656d85d80730e5d8fda749c5bd87fe8898010a4a38",
-    "binaryHash": "75163d50df2f62e878f4c65cbb5dac855c48366c77dcad26884fe91b31ac8cdf"
+    "base64Hash": "a94dd6fee2e6a47409472c092b573478bfec9665b2c8dd0ae9619f29d3cdbbf1",
+    "binaryHash": "5e9022302cb480d5baf69b7ab07f02545e24e1c5f1527767c3daea13d3694780"
   },
   "com.sncommunity.markdown-basic": {
     "name": "Basic Markdown",
@@ -125,8 +125,8 @@
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.markdown-visual.json",
     "publisher": "Standard Notes Community",
     "description": "A WYSIWYG-style Markdown editor that renders Markdown in preview-mode while you type without displaying any syntax.",
-    "base64Hash": "7b7e2fb4d441030349336aaa2fc690f2eab60d71814beab00c427663c0c46956",
-    "binaryHash": "69d7c6271e8fbc162dd54cb948d8b5884a37cb370cefe4067bf79426c49d01c0"
+    "base64Hash": "7d0ed37197f293acedd45f664815711a19cbdaf731bb49ccaf7b5eee79f428bd",
+    "binaryHash": "3fe0b8c57be380252aaa5f4ca240bb9a6ce975a63c03b69796505f63f81b0112"
   },
   "org.standardnotes.legacy.file-safe": {
     "name": "FileSafe Legacy",
