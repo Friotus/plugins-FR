@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.11](https://github.com/standardnotes/plugins/compare/@standardnotes/markdown-visual@1.4.10...@standardnotes/markdown-visual@1.4.11) (2026-01-15)
+
+**Note:** Version bump only for package @standardnotes/markdown-visual
+
 ## [1.4.10](https://github.com/standardnotes/plugins/compare/@standardnotes/markdown-visual@1.4.9...@standardnotes/markdown-visual@1.4.10) (2026-01-14)
 
 **Note:** Version bump only for package @standardnotes/markdown-visual

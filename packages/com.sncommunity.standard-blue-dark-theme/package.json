@@ -1,6 +1,6 @@
 {
   "name": "@standardnotes/standard-blue-dark",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "main": "dist/dist.css",
   "author": "Passkeys",
   "description": "A dark blue theme for Standard Notes.",
