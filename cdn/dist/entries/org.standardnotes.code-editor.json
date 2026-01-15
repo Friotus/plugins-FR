@@ -12,8 +12,8 @@
   "url": "https://standardnotes.github.io/plugins/cdn/dist/static/org.standardnotes.code-editor/index.html",
   "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/org.standardnotes.code-editor.zip",
   "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/org.standardnotes.code-editor.json",
-  "publisher": "Standard Notes Community",
+  "publisher": "Standard Notes Community.",
   "description": "Syntax highlighting and convenient keyboard shortcuts for over 120 programming languages. Ideal for code snippets and procedures.",
-  "base64Hash": "957cbca82769c909dd9b02cef520b2c662ba1cba5cee5a702195d09536294ae8",
-  "binaryHash": "63a1a366565ffcc498951be088b77f077243cbe80f1ce536b6dbb5a5dc0e0879"
+  "base64Hash": "6abc314454cd59b912fac40687704faa72d7217aeee8e0a8fa7d4663a03cc0a7",
+  "binaryHash": "7f7e48d98585a8470767d31f37f140654c98632da0aed0f8b5922418767eedc9"
 }

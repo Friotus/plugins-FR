@@ -12,8 +12,8 @@
   "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.bold-editor/dist/index.html",
   "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.bold-editor.zip",
   "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.bold-editor.json",
-  "publisher": "Standard Notes Retired",
+  "publisher": "Standard Notes Retired.",
   "description": "A simple and peaceful rich editor that helps you write and think clearly.",
-  "base64Hash": "d84a098b1520d27b7b2416f860ee4feb0ef80f070c8c300d25f0cd0005d1df90",
-  "binaryHash": "ceac255a9b9b4be2844e7000a1358ba655e6ed33bcc5f122091f740bfddea148"
+  "base64Hash": "46a63cdc0e9d4d09f2964dbaa5f136a10518f1a43c50beb90007d8421b91252e",
+  "binaryHash": "7d0fa0e52c0c0285d10ae50deceed1e264c184bf47731f3b731e40224603c0c4"
 }

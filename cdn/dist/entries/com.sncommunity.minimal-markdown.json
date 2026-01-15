@@ -12,8 +12,8 @@
   "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.minimal-markdown/index.html",
   "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.minimal-markdown.zip",
   "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.minimal-markdown.json",
-  "publisher": "Standard Notes Community",
+  "publisher": "Standard Notes Community.",
   "description": "A minimal Markdown editor with live rendering and in-text search via Ctrl/Cmd + F",
-  "base64Hash": "d76242871656adf316fd2d6217f59f48bda698c764e82519b148d625af6b4f50",
-  "binaryHash": "cf296254ab9d17080b0bdfb61e537640f67273a4bd6761d1cae1f82a9b2a8e6d"
+  "base64Hash": "f17c32f6bbee108c0834add1d532a24bd6f8ca2bf5f361119dfeb562bef41d1b",
+  "binaryHash": "96afbdd87d021332cf2e2daf8bd18ce7338c6c59ffebd7f355682b38556ed7b7"
 }
