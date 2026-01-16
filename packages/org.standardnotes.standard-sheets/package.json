@@ -1,6 +1,11 @@
 {
   "name": "@standardnotes/spreadsheets",
   "version": "1.8.11",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/standardnotes/plugins",
+    "directory": "packages/org.standardnotes.standard-sheets"
+  },
   "publishConfig": {
     "access": "public"
   },

@@ -1,6 +1,11 @@
 {
   "name": "@standardnotes/advanced-checklist",
   "version": "0.5.20",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/standardnotes/plugins",
+    "directory": "packages/com.sncommunity.advanced-checklist"
+  },
   "description": "A task editor with grouping functionality.",
   "keywords": [
     "Standard Notes",

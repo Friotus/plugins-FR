@@ -4,6 +4,11 @@
     "access": "public"
   },
   "version": "1.7.11",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/standardnotes/plugins",
+    "directory": "packages/com.sncommunity.markdown-basic"
+  },
   "main": "dist/dist.js",
   "author": "Standard Notes Community",
   "description": "A Markdown editor with dynamic split-pane preview.",

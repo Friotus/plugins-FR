@@ -4,6 +4,11 @@
     "access": "public"
   },
   "version": "1.5.11",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/standardnotes/plugins",
+    "directory": "packages/com.sncommunity.markdown-math"
+  },
   "description": "A beautiful split-pane Markdown editor with synced-scroll, LaTeX support, and colorful syntax.",
   "main": "index.js",
   "scripts": {

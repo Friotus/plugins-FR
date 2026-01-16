@@ -4,6 +4,11 @@
     "access": "public"
   },
   "version": "1.4.11",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/standardnotes/plugins",
+    "directory": "packages/com.sncommunity.minimal-markdown"
+  },
   "description": "A minimal Markdown editor with live rendering and in-text search via Ctrl/Cmd + F",
   "author": "Standard Notes Community",
   "main": "dist/dist.js",

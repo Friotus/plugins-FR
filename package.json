@@ -4,7 +4,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/standardnotes/plugins"
+    "url": "https://github.com/standardnotes/plugins"
   },
   "workspaces": {
     "packages": [
@@ -12,7 +12,7 @@
       "cdn"
     ]
   },
-  "scripts": {  
+  "scripts": {
     "build": "yarn workspaces foreach --verbose --interlaced -pt --topological-dev --jobs 10 run build",
     "clean": "lerna run clean",
     "release": "lerna version --conventional-commits --yes -m \"chore(release): publish\"",

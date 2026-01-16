@@ -1,6 +1,11 @@
 {
   "name": "@standardnotes/rich-text",
   "version": "1.9.11",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/standardnotes/plugins",
+    "directory": "packages/org.standardnotes.plus-editor"
+  },
   "publishConfig": {
     "access": "public"
   },

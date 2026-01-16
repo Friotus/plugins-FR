@@ -3,6 +3,11 @@
   "description": "A virtual whiteboard editor, with a hand-drawn style. Powered by Excalidraw.",
   "author": "Matthew Nienow",
   "version": "1.2.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/standardnotes/plugins",
+    "directory": "packages/dev.randombits.excalidraw"
+  },
   "scripts": {
     "build": "webpack"
   },
