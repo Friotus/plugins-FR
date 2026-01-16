@@ -5,11 +5,11 @@
   "main": "dist/index.html",
   "showInGallery": false,
   "identifier": "org.standardnotes.legacy.file-safe",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "url": "https://standardnotes.github.io/plugins/cdn/dist/static/org.standardnotes.legacy.file-safe/dist/index.html",
   "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/org.standardnotes.legacy.file-safe.zip",
   "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/org.standardnotes.legacy.file-safe.json",
   "publisher": "Standard Notes Retired",
-  "base64Hash": "e5da0713f33271ec2ad268448971b4fb2c9ff59f55971733f324d2457516baf1",
-  "binaryHash": "563ee70f6fc29bdb3410599ad5d3a0d3cc20e10cbb9ed474b4aff19c7e06c087"
+  "base64Hash": "da3f60825be5767d4a9ec466e3976d099048de6b7fa9f9b4f53676646bd0ceaf",
+  "binaryHash": "271bf32ae3913b779d0fb04e51d4cdc56534e123a310096b6709df11ce69352f"
 }

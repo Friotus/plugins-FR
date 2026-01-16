@@ -6,12 +6,12 @@
   "layerable": true,
   "showInGallery": true,
   "identifier": "com.sncommunity.markdown-monospace",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.markdown-monospace/dist/dist.css",
   "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.markdown-monospace.zip",
   "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.markdown-monospace.json",
   "publisher": "DanielNetoP",
   "description": "Ability to toggle monospace font for Markdown, Minimal Markdown, and Basic Markdown plugins.",
-  "base64Hash": "1189bd1624812223d92956fabc953a40edfb08105dd2913a8a2246de386c626c",
-  "binaryHash": "251b1715432220a9a5dbd0d396f3f6623a4aa724f5834e4b4e6375c91f988a31"
+  "base64Hash": "db1c554d8b48c07b4ccfc7cc939cab8dd039dfc5f7a1517484982b8eb229681e",
+  "binaryHash": "03d623e2701b4fb4b7fd889a83c3f3c487befceaaf5c90d330a1cb8a78b173ec"
 }
