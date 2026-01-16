@@ -54,12 +54,12 @@ jobs:
         run: yarn workspace @standardnotes/community-cdn compile
 
       - name: Release
+        if: ${{ env.FORCE_PUBLISH != 'true' }}
         run: yarn run release
 
-      - name: Force Publish
+      - name: Force Release
         if: ${{ env.FORCE_PUBLISH == 'true' }}
-        run: yarn run publish:force
+        run: yarn run release:force
 
       - name: Publish
-        if: ${{ env.FORCE_PUBLISH != 'true' }}
         run: yarn run publish
