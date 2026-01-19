@@ -7206,6 +7206,14 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"@standardnotes/coffee-theme@workspace:packages/com.sncommunity.coffee-theme":
+  version: 0.0.0-use.local
+  resolution: "@standardnotes/coffee-theme@workspace:packages/com.sncommunity.coffee-theme"
+  dependencies:
+    shx: ^0.4.0
+  languageName: unknown
+  linkType: soft
+
 "@standardnotes/common@npm:1.35.0, @standardnotes/common@npm:^1.23.1, @standardnotes/common@npm:^1.32.0":
   version: 1.35.0
   resolution: "@standardnotes/common@npm:1.35.0"
@@ -7248,6 +7256,14 @@ __metadata:
   checksum: f51fa8eb4be8897bb736ace2512e443ca13d0737bbd609cddc2bb0d58b729b63c788558132816cfc064190e67c89297bccd210bbee94ef3f4ec92db8cdd42ac8
   languageName: node
   linkType: hard
+
+"@standardnotes/dark-mint-theme@workspace:packages/com.sncommunity.dark-mint-theme":
+  version: 0.0.0-use.local
+  resolution: "@standardnotes/dark-mint-theme@workspace:packages/com.sncommunity.dark-mint-theme"
+  dependencies:
+    shx: ^0.4.0
+  languageName: unknown
+  linkType: soft
 
 "@standardnotes/deterministic-zip@npm:^1.2.0":
   version: 1.2.0
@@ -12306,22 +12322,6 @@ __metadata:
   checksum: 0d590023616a27bcd2135c0f6ddd6fac94543263f9995538bbe391068976e30545e5534d369737ec7c3e9db4e53e70a277462de46aeb5a36e6997b4c7559c335
   languageName: node
   linkType: hard
-
-"com.sncommunity.coffee-theme@workspace:packages/com.sncommunity.coffee-theme":
-  version: 0.0.0-use.local
-  resolution: "com.sncommunity.coffee-theme@workspace:packages/com.sncommunity.coffee-theme"
-  dependencies:
-    shx: ^0.4.0
-  languageName: unknown
-  linkType: soft
-
-"com.sncommunity.dark-mint-theme@workspace:packages/com.sncommunity.dark-mint-theme":
-  version: 0.0.0-use.local
-  resolution: "com.sncommunity.dark-mint-theme@workspace:packages/com.sncommunity.dark-mint-theme"
-  dependencies:
-    shx: ^0.4.0
-  languageName: unknown
-  linkType: soft
 
 "combine-source-map@npm:^0.8.0, combine-source-map@npm:~0.8.0":
   version: 0.8.0
