@@ -1,0 +1,16 @@
+{
+  "name": "Dark Mint Theme",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "main": "dist/theme.css",
+  "showInGallery": true,
+  "identifier": "com.sncommunity.dark-mint-theme",
+  "version": "1.0.0",
+  "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.dark-mint-theme/dist/theme.css",
+  "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.dark-mint-theme.zip",
+  "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.dark-mint-theme.json",
+  "publisher": "Passkeys",
+  "description": "A dark mint theme for Standard Notes.",
+  "base64Hash": "e674e5734d2cb5c30d0ae180f55eaa2bb7965f2ab95880453ef83ad032f5622b",
+  "binaryHash": "f598dc474fa38c01ae2df46eb9ba65b9e6c68b984a90c8e29ce04a1cd9dbca13"
+}
