@@ -292,14 +292,14 @@
     "main": "dist/theme.css",
     "showInGallery": true,
     "identifier": "com.sncommunity.dark-mint-theme",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.dark-mint-theme/dist/theme.css",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.dark-mint-theme.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.dark-mint-theme.json",
     "publisher": "Passkeys",
     "description": "A dark mint theme for Standard Notes.",
-    "base64Hash": "e674e5734d2cb5c30d0ae180f55eaa2bb7965f2ab95880453ef83ad032f5622b",
-    "binaryHash": "f598dc474fa38c01ae2df46eb9ba65b9e6c68b984a90c8e29ce04a1cd9dbca13"
+    "base64Hash": "ef7ea324bfcaee66b3d19387fde6d81d0fe011c0c81921997ae1d89bc783affb",
+    "binaryHash": "9c4f3e5c2e42de965dc5232a006540bb640178ebdccbf66618bde705595218dc"
   },
   "com.sncommunity.coffee-theme": {
     "name": "Coffee Theme",
@@ -308,13 +308,13 @@
     "main": "dist/theme.css",
     "showInGallery": true,
     "identifier": "com.sncommunity.coffee-theme",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.coffee-theme/dist/theme.css",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.coffee-theme.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.coffee-theme.json",
     "publisher": "Passkeys",
     "description": "A coffee inspired theme for Standard Notes.",
-    "base64Hash": "bea00817287e1d986742e2cece3a4d49a853f6fcf06dab68afbeb627a92270c0",
-    "binaryHash": "4d1621d8bfc49c08f559af192df08462934773dbc31754e7ecdc7712bd20a694"
+    "base64Hash": "a49fe7025e2b749d8444f33f8f46a9b3b54016990ff91713815c8ac11595bac5",
+    "binaryHash": "b2729d67db7c4e149be9b78b6d229ebaf5b061f179a523cb54647ad16dbbd7cc"
   }
 }
