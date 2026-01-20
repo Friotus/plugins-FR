@@ -7369,6 +7369,14 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"@standardnotes/lights-out-theme@workspace:packages/com.sncommunity.lights-out-theme":
+  version: 0.0.0-use.local
+  resolution: "@standardnotes/lights-out-theme@workspace:packages/com.sncommunity.lights-out-theme"
+  dependencies:
+    shx: ^0.4.0
+  languageName: unknown
+  linkType: soft
+
 "@standardnotes/markdown-basic@workspace:packages/com.sncommunity.markdown-basic":
   version: 0.0.0-use.local
   resolution: "@standardnotes/markdown-basic@workspace:packages/com.sncommunity.markdown-basic"
