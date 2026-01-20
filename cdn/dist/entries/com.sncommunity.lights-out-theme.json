@@ -1,0 +1,16 @@
+{
+  "name": "Lights Out",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "main": "dist/theme.css",
+  "showInGallery": true,
+  "identifier": "com.sncommunity.lights-out-theme",
+  "version": "1.0.0",
+  "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.lights-out-theme/dist/theme.css",
+  "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.lights-out-theme.zip",
+  "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.lights-out-theme.json",
+  "publisher": "Passkeys",
+  "description": "A pitch black theme for Standard Notes.",
+  "base64Hash": "e31abd891b974d3046256fc1401721745529c215fbc49049a9d6643c423069b9",
+  "binaryHash": "21128b18bf1b986e675318fc0d035b5432a5b04afc70faded0f1b9209780d570"
+}

@@ -38,3 +38,4 @@ In Standard Notes desktop or web:
 |Standard Blue|Passkeys|https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.standard-blue-theme.json|
 |Dark Mint Theme|Passkeys|https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.dark-mint-theme.json|
 |Coffee Theme|Passkeys|https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.coffee-theme.json|
+|Lights Out|Passkeys|https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.lights-out-theme.json|

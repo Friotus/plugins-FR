@@ -292,14 +292,14 @@
     "main": "dist/theme.css",
     "showInGallery": true,
     "identifier": "com.sncommunity.dark-mint-theme",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.dark-mint-theme/dist/theme.css",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.dark-mint-theme.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.dark-mint-theme.json",
     "publisher": "Passkeys",
     "description": "A dark mint theme for Standard Notes.",
-    "base64Hash": "ef7ea324bfcaee66b3d19387fde6d81d0fe011c0c81921997ae1d89bc783affb",
-    "binaryHash": "9c4f3e5c2e42de965dc5232a006540bb640178ebdccbf66618bde705595218dc"
+    "base64Hash": "b020f46533a52cd5a7fa37e237fc16e0c8b325268c1fc1395a04174d0c70c943",
+    "binaryHash": "3c73d6faee403e1186ed98942e15d268d59a2431316bc9436dba24d2aed220eb"
   },
   "com.sncommunity.coffee-theme": {
     "name": "Coffee Theme",
@@ -308,13 +308,29 @@
     "main": "dist/theme.css",
     "showInGallery": true,
     "identifier": "com.sncommunity.coffee-theme",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.coffee-theme/dist/theme.css",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.coffee-theme.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.coffee-theme.json",
     "publisher": "Passkeys",
     "description": "A coffee inspired theme for Standard Notes.",
-    "base64Hash": "a49fe7025e2b749d8444f33f8f46a9b3b54016990ff91713815c8ac11595bac5",
-    "binaryHash": "b2729d67db7c4e149be9b78b6d229ebaf5b061f179a523cb54647ad16dbbd7cc"
+    "base64Hash": "3f526a19bf75c75b62f9063eea2aa51ddecfb1f365cb85437154137cc4bdf78e",
+    "binaryHash": "a0abc897cf9ae2c5e4638d2066ed3a26fc3ac68b58163a5b95a173fc0bffaaf2"
+  },
+  "com.sncommunity.lights-out-theme": {
+    "name": "Lights Out",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "main": "dist/theme.css",
+    "showInGallery": true,
+    "identifier": "com.sncommunity.lights-out-theme",
+    "version": "1.0.0",
+    "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.lights-out-theme/dist/theme.css",
+    "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.lights-out-theme.zip",
+    "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.lights-out-theme.json",
+    "publisher": "Passkeys",
+    "description": "A pitch black theme for Standard Notes.",
+    "base64Hash": "e31abd891b974d3046256fc1401721745529c215fbc49049a9d6643c423069b9",
+    "binaryHash": "21128b18bf1b986e675318fc0d035b5432a5b04afc70faded0f1b9209780d570"
   }
 }
