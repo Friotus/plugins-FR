@@ -60,11 +60,6 @@ module.exports = {
       template: 'editor.index.ejs',
       filename: 'index.html'
     }),
-    new CopyWebpackPlugin({
-      patterns: [
-        { from: require.resolve('filesafe-js/dist/filesafe-js/EncryptionWorker.js'), to: 'filesafe-js/EncryptionWorker.js' },
-      ],
-    }),
     new MergeIntoSingleFilePlugin({
       files: {
         "vendor.js": [
@@ -72,7 +67,6 @@ module.exports = {
           'redactor/plugins/**/*.min.js',
         ],
         "vendor.css": [
-          require.resolve('filesafe-embed/dist/dist.css'),
           'redactor/src/redactor.min.css',
           'redactor/plugins/inlinestyle/inlinestyle.min.css'
         ]
