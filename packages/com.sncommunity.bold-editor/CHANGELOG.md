@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.7.12](https://github.com/standardnotes/plugins/compare/@standardnotes/bold-editor@1.7.11...@standardnotes/bold-editor@1.7.12) (2026-02-05)
+
+### Bug Fixes
+
+* Removes filesafe dependency from bold editor ([#69](https://github.com/standardnotes/plugins/issues/69)) ([8d168d4](https://github.com/standardnotes/plugins/commit/8d168d4db685a7f9912f42d67a90a57bc1eaf191))
+
 ## [1.7.11](https://github.com/standardnotes/plugins/compare/@standardnotes/bold-editor@1.7.10...@standardnotes/bold-editor@1.7.11) (2026-01-16)
 
 **Note:** Version bump only for package @standardnotes/bold-editor
