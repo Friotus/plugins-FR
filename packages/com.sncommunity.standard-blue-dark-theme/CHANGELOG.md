@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.12](https://github.com/standardnotes/plugins/compare/@standardnotes/standard-blue-dark@1.1.11...@standardnotes/standard-blue-dark@1.1.12) (2026-02-06)
+
+**Note:** Version bump only for package @standardnotes/standard-blue-dark
+
 ## [1.1.11](https://github.com/standardnotes/plugins/compare/@standardnotes/standard-blue-dark@1.1.10...@standardnotes/standard-blue-dark@1.1.11) (2026-01-16)
 
 **Note:** Version bump only for package @standardnotes/standard-blue-dark
