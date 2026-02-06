@@ -28,14 +28,14 @@
     "file_type": "html",
     "showInGallery": false,
     "identifier": "com.sncommunity.bold-editor",
-    "version": "1.7.11",
+    "version": "1.7.12",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.bold-editor/dist/index.html",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.bold-editor.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.bold-editor.json",
     "publisher": "Standard Notes Retired",
     "description": "A simple and peaceful rich editor that helps you write and think clearly.",
-    "base64Hash": "edc50ab7304e74e3787a9b7feead84a26f7cc647a617f208e4626be8ae444169",
-    "binaryHash": "a05b7a0bee8fc4dbe0fefd5c97e40c2058e31f8f81f48f7cff3caf15242f67f4"
+    "base64Hash": "98caabfe5d91c0d13070394f35498db7651d80d3da1fce6b69bdc2d3761ac59b",
+    "binaryHash": "408d66e11d0791051575896f87f566dcddf8dd8d9f612157a952f58b8a6db021"
   },
   "com.sncommunity.advanced-checklist": {
     "name": "Advanced Checklist",
@@ -292,14 +292,14 @@
     "main": "dist/theme.css",
     "showInGallery": true,
     "identifier": "com.sncommunity.dark-mint-theme",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "url": "https://standardnotes.github.io/plugins/cdn/dist/static/com.sncommunity.dark-mint-theme/dist/theme.css",
     "download_url": "https://standardnotes.github.io/plugins/cdn/dist/zips/com.sncommunity.dark-mint-theme.zip",
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.dark-mint-theme.json",
     "publisher": "Passkeys",
     "description": "A dark mint theme for Standard Notes.",
-    "base64Hash": "ef7ea324bfcaee66b3d19387fde6d81d0fe011c0c81921997ae1d89bc783affb",
-    "binaryHash": "9c4f3e5c2e42de965dc5232a006540bb640178ebdccbf66618bde705595218dc"
+    "base64Hash": "50cc66dd6670f5491a9a9528096b38ac2bad8fe9d5a647595b8ffde3575f8adc",
+    "binaryHash": "7bc576bf23aabd298861d53ba30be74aa6f4e627fa557281af686bbe89b63d2b"
   },
   "com.sncommunity.coffee-theme": {
     "name": "Coffee Theme",
@@ -314,8 +314,8 @@
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.coffee-theme.json",
     "publisher": "Passkeys",
     "description": "A coffee inspired theme for Standard Notes.",
-    "base64Hash": "3f526a19bf75c75b62f9063eea2aa51ddecfb1f365cb85437154137cc4bdf78e",
-    "binaryHash": "a0abc897cf9ae2c5e4638d2066ed3a26fc3ac68b58163a5b95a173fc0bffaaf2"
+    "base64Hash": "beee790d513fcbf0dd34e96e7d41e3b205cc19f256f84cf02468f6c254aa7d9c",
+    "binaryHash": "f902a343e46e3e83348d6e7ef434ae5175dfaab21f6be55e3e5d7abdcd69b7c9"
   },
   "com.sncommunity.lights-out-theme": {
     "name": "Lights Out",
@@ -330,7 +330,7 @@
     "latest_url": "https://standardnotes.github.io/plugins/cdn/dist/entries/com.sncommunity.lights-out-theme.json",
     "publisher": "Passkeys",
     "description": "A pitch black theme for Standard Notes.",
-    "base64Hash": "aa1a10dd2875df6c57421ebf599621cbbd94e74be370c3dba83f736ed8b7a023",
-    "binaryHash": "c73cb2e06645c2fca12f924e335eea00c47b756777f22a9fb960ab1f0a9b7541"
+    "base64Hash": "b38962a51498207274eed7e6c1eb4a1bba4228dab34e24642dfb3057bdb0e0a4",
+    "binaryHash": "e381af84225d80a5f1ff750cec7ffd850e8fd33579f6c4c12eba2848a7aeebae"
   }
 }
