@@ -1,6 +1,11 @@
 {
   "name": "@standardnotes/coffee-theme",
   "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/standardnotes/plugins",
+    "directory": "packages/com.sncommunity.coffee-theme"
+  },
   "description": "A coffee inspired theme for Standard Notes.",
   "author": "Passkeys",
   "license": "GPL-3.0",
