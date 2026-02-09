@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/standardnotes/plugins",
+    "url": "https://github.com/Friotus/plugins-FR",
     "directory": "packages/com.sncommunity.lights-out-theme"
   },
   "description": "A pitch black theme for Standard Notes.",
